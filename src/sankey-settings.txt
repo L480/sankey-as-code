@@ -1,0 +1,55 @@
+
+
+// === Settings ===
+
+size w 600
+  h 600
+margin l 0
+  r 0
+  t 0
+  b 0
+bg color #ffffff
+  transparent Y
+node w 5
+  h 31
+  spacing 82
+  border 0
+  theme a
+  color #888888
+  opacity 1
+flow curvature 0.42
+  inheritfrom target
+  color #999999
+  opacity 0.5
+layout order automatic
+  justifyorigins N
+  justifyends Y
+  reversegraph N
+  attachincompletesto nearest
+labels color #000000
+  hide N
+  highlight 0
+  fontface sans-serif
+  linespacing 0
+  relativesize 100
+  magnify 100
+labelname appears Y
+  size 14
+  weight 400
+labelvalue appears Y
+  fullprecision Y
+  position before
+  weight 700
+labelposition autoalign 0
+  scheme per_stage
+  first after
+  breakpoint 4
+value format '.,'
+  prefix ''
+  suffix ' €'
+themeoffset a 9
+  b 0
+  c 0
+  d 0
+meta mentionsankeymatic N
+  listimbalances Y

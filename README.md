@@ -1,2 +1,3 @@
-# sankey-as-code
-SankeyMATIC-as-Code
+# Budget Planning
+
+![Sankey Diagram](src/sankey.svg)
