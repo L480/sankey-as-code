@@ -2,7 +2,7 @@
 
 // === Settings ===
 
-size w 600
+size w 800
   h 600
 margin l 0
   r 0
