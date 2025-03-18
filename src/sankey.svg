@@ -1,16 +1,16 @@
-<svg height="600" width="600" xmlns="http://www.w3.org/2000/svg">
+<svg height="600" width="800" xmlns="http://www.w3.org/2000/svg">
 <title>Your Diagram Title</title>
-<!-- Generated with SankeyMATIC: 3/18/2025, 8:24:35 PM -->
+<!-- Generated with SankeyMATIC: 3/18/2025, 8:28:50 PM -->
 <g transform="translate(0,0)">
 <g id="sankey_flows">
-<path id="flow0" d="M5 223.8107C96.01919 223.8107 130.69317 233.41313 221.71236 233.41313" fill="none" stroke-width="162.97714" stroke="#1f77b4" opacity="0.5"><title>Wages → Budget: 1.500 €</title></path>
-<path id="flow2" d="M226.71236 176.37113C317.73156 176.37113 352.40553 61.33397 443.42473 61.33397" fill="none" stroke-width="48.89314" stroke="#2ca02c" opacity="0.5"><title>Budget → Taxes: 450 €</title></path>
-<path id="flow3" d="M226.71236 223.63451C317.73156 223.63451 352.40553 175.81438 443.42473 175.81438" fill="none" stroke-width="45.6336" stroke="#d62728" opacity="0.5"><title>Budget → Housing: 420 €</title></path>
-<path id="flow4" d="M226.71236 268.18159C317.73156 268.18159 352.40553 287.57851 443.42473 287.57851" fill="none" stroke-width="43.46057" stroke="#9467bd" opacity="0.5"><title>Budget → Food: 400 €</title></path>
-<path id="flow5" d="M226.71236 305.93796C317.73156 305.93796 352.40553 392.55192 443.42473 392.55192" fill="none" stroke-width="32.05217" stroke="#8c564b" opacity="0.5"><title>Budget → Transportation: 295 €</title></path>
-<path id="flow1" d="M5 386.09774C96.01919 386.09774 130.69317 328.48313 221.71236 328.48313" fill="none" stroke-width="27.16286" stroke="#1f77b4" opacity="0.5"><title>Other → Budget: 250 €</title></path>
-<path id="flow7" d="M226.71236 333.91571C317.73156 333.91571 352.40553 554.96374 443.42473 554.96374" fill="none" stroke-width="16.29771" stroke="#e377c2" opacity="0.5"><title>Budget → Savings: 150 €</title></path>
-<path id="flow6" d="M226.71236 323.86545C317.73156 323.86545 352.40553 477.69645 443.42473 477.69645" fill="none" stroke-width="3.8028" stroke="#ff7f0e" opacity="0.5"><title>Budget → Other Necessities: 35 €</title></path>
+<path id="flow0" d="M5 223.8107C138.01919 223.8107 188.69317 233.41313 321.71236 233.41313" fill="none" stroke-width="162.97714" stroke="#1f77b4" opacity="0.5"><title>Wages → Budget: 1.500 €</title></path>
+<path id="flow2" d="M326.71236 176.37113C459.73156 176.37113 510.40553 61.33397 643.42473 61.33397" fill="none" stroke-width="48.89314" stroke="#2ca02c" opacity="0.5"><title>Budget → Taxes: 450 €</title></path>
+<path id="flow3" d="M326.71236 223.63451C459.73156 223.63451 510.40553 175.81438 643.42473 175.81438" fill="none" stroke-width="45.6336" stroke="#d62728" opacity="0.5"><title>Budget → Housing: 420 €</title></path>
+<path id="flow4" d="M326.71236 268.18159C459.73156 268.18159 510.40553 287.57851 643.42473 287.57851" fill="none" stroke-width="43.46057" stroke="#9467bd" opacity="0.5"><title>Budget → Food: 400 €</title></path>
+<path id="flow5" d="M326.71236 305.93796C459.73156 305.93796 510.40553 392.55192 643.42473 392.55192" fill="none" stroke-width="32.05217" stroke="#8c564b" opacity="0.5"><title>Budget → Transportation: 295 €</title></path>
+<path id="flow1" d="M5 386.09774C138.01919 386.09774 188.69317 328.48313 321.71236 328.48313" fill="none" stroke-width="27.16286" stroke="#1f77b4" opacity="0.5"><title>Other → Budget: 250 €</title></path>
+<path id="flow7" d="M326.71236 333.91571C459.73156 333.91571 510.40553 554.96374 643.42473 554.96374" fill="none" stroke-width="16.29771" stroke="#e377c2" opacity="0.5"><title>Budget → Savings: 150 €</title></path>
+<path id="flow6" d="M326.71236 323.86545C459.73156 323.86545 510.40553 477.69645 643.42473 477.69645" fill="none" stroke-width="3.8028" stroke="#ff7f0e" opacity="0.5"><title>Budget → Other Necessities: 35 €</title></path>
 </g>
 <g id="sankey_nodes">
 <g class="node">
@@ -18,7 +18,7 @@
 1.500 €</title></rect>
 </g>
 <g class="node">
-<rect id="r1" class="for_r1" x="221.71236" y="151.92456" height="190.14" width="5" fill="#1f77b4" fill-opacity="1"><title>Budget:
+<rect id="r1" class="for_r1" x="321.71236" y="151.92456" height="190.14" width="5" fill="#1f77b4" fill-opacity="1"><title>Budget:
 1.750 €</title></rect>
 </g>
 <g class="node">
@@ -26,39 +26,39 @@
 250 €</title></rect>
 </g>
 <g class="node">
-<rect id="r3" class="for_r3" x="443.42473" y="36.8874" height="48.89314" width="5" fill="#2ca02c" fill-opacity="1"><title>Taxes:
+<rect id="r3" class="for_r3" x="643.42473" y="36.8874" height="48.89314" width="5" fill="#2ca02c" fill-opacity="1"><title>Taxes:
 450 €</title></rect>
 </g>
 <g class="node">
-<rect id="r4" class="for_r4" x="443.42473" y="152.99758" height="45.6336" width="5" fill="#d62728" fill-opacity="1"><title>Housing:
+<rect id="r4" class="for_r4" x="643.42473" y="152.99758" height="45.6336" width="5" fill="#d62728" fill-opacity="1"><title>Housing:
 420 €</title></rect>
 </g>
 <g class="node">
-<rect id="r5" class="for_r5" x="443.42473" y="265.84822" height="43.46057" width="5" fill="#9467bd" fill-opacity="1"><title>Food:
+<rect id="r5" class="for_r5" x="643.42473" y="265.84822" height="43.46057" width="5" fill="#9467bd" fill-opacity="1"><title>Food:
 400 €</title></rect>
 </g>
 <g class="node">
-<rect id="r6" class="for_r6" x="443.42473" y="376.52583" height="32.05217" width="5" fill="#8c564b" fill-opacity="1"><title>Transportation:
+<rect id="r6" class="for_r6" x="643.42473" y="376.52583" height="32.05217" width="5" fill="#8c564b" fill-opacity="1"><title>Transportation:
 295 €</title></rect>
 </g>
 <g class="node">
-<rect id="r7" class="for_r7" x="443.42473" y="475.79505" height="3.8028" width="5" fill="#ff7f0e" fill-opacity="1"><title>Other Necessities:
+<rect id="r7" class="for_r7" x="643.42473" y="475.79505" height="3.8028" width="5" fill="#ff7f0e" fill-opacity="1"><title>Other Necessities:
 35 €</title></rect>
 </g>
 <g class="node">
-<rect id="r8" class="for_r8" x="443.42473" y="546.81489" height="16.29771" width="5" fill="#e377c2" fill-opacity="1"><title>Savings:
+<rect id="r8" class="for_r8" x="643.42473" y="546.81489" height="16.29771" width="5" fill="#e377c2" fill-opacity="1"><title>Savings:
 150 €</title></rect>
 </g>
 </g>
 <g id="sankey_labels" font-family="sans-serif" font-size="14px" fill="#000000">
 <text id="label0" class="for_r0" text-anchor="start" x="10.51496" y="223.8107" font-weight="700" font-size="14px" dy="4.64">1.500 € <tspan font-weight="400" font-size="14px">Wages</tspan></text>
-<text id="label1" class="for_r1" text-anchor="start" x="232.22732" y="246.99456" font-weight="700" font-size="14px" dy="4.64">1.750 € <tspan font-weight="400" font-size="14px">Budget</tspan></text>
+<text id="label1" class="for_r1" text-anchor="start" x="332.22732" y="246.99456" font-weight="700" font-size="14px" dy="4.64">1.750 € <tspan font-weight="400" font-size="14px">Budget</tspan></text>
 <text id="label2" class="for_r2" text-anchor="start" x="10.51496" y="386.09774" font-weight="700" font-size="14px" dy="4.64">250 € <tspan font-weight="400" font-size="14px">Other</tspan></text>
-<text id="label3" class="for_r3" text-anchor="start" x="453.93969" y="61.33397" font-weight="700" font-size="14px" dy="4.64">450 € <tspan font-weight="400" font-size="14px">Taxes</tspan></text>
-<text id="label4" class="for_r4" text-anchor="start" x="453.93969" y="175.81438" font-weight="700" font-size="14px" dy="4.64">420 € <tspan font-weight="400" font-size="14px">Housing</tspan></text>
-<text id="label5" class="for_r5" text-anchor="start" x="453.93969" y="287.57851" font-weight="700" font-size="14px" dy="4.64">400 € <tspan font-weight="400" font-size="14px">Food</tspan></text>
-<text id="label6" class="for_r6" text-anchor="start" x="453.93969" y="392.55192" font-weight="700" font-size="14px" dy="4.64">295 € <tspan font-weight="400" font-size="14px">Transportation</tspan></text>
-<text id="label7" class="for_r7" text-anchor="start" x="453.93969" y="477.69645" font-weight="700" font-size="14px" dy="4.64">35 € <tspan font-weight="400" font-size="14px">Other Necessities</tspan></text>
-<text id="label8" class="for_r8" text-anchor="start" x="453.93969" y="554.96374" font-weight="700" font-size="14px" dy="4.64">150 € <tspan font-weight="400" font-size="14px">Savings</tspan></text>
+<text id="label3" class="for_r3" text-anchor="start" x="653.93969" y="61.33397" font-weight="700" font-size="14px" dy="4.64">450 € <tspan font-weight="400" font-size="14px">Taxes</tspan></text>
+<text id="label4" class="for_r4" text-anchor="start" x="653.93969" y="175.81438" font-weight="700" font-size="14px" dy="4.64">420 € <tspan font-weight="400" font-size="14px">Housing</tspan></text>
+<text id="label5" class="for_r5" text-anchor="start" x="653.93969" y="287.57851" font-weight="700" font-size="14px" dy="4.64">400 € <tspan font-weight="400" font-size="14px">Food</tspan></text>
+<text id="label6" class="for_r6" text-anchor="start" x="653.93969" y="392.55192" font-weight="700" font-size="14px" dy="4.64">295 € <tspan font-weight="400" font-size="14px">Transportation</tspan></text>
+<text id="label7" class="for_r7" text-anchor="start" x="653.93969" y="477.69645" font-weight="700" font-size="14px" dy="4.64">35 € <tspan font-weight="400" font-size="14px">Other Necessities</tspan></text>
+<text id="label8" class="for_r8" text-anchor="start" x="653.93969" y="554.96374" font-weight="700" font-size="14px" dy="4.64">150 € <tspan font-weight="400" font-size="14px">Savings</tspan></text>
 </g>
 </g></svg>
